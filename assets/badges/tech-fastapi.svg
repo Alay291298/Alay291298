@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="32" viewBox="0 0 105 32" role="img" aria-label="FastAPI">
+<title>FastAPI</title>
+<rect x="0.5" y="0.5" width="104" height="31" rx="5" fill="#0B2236" stroke="#39F1D1" stroke-opacity="0.35"/>
+<path d="M1 5V1h5M99 1h5v5M104 26v5h-5M6 31H1v-5" fill="none" stroke="#39F1D1" stroke-width="1.4"/>
+<g transform="translate(12 8) scale(0.6666666666666666)"><path d="M12 .0387C5.3729.0384.0003 5.3931 0 11.9988c-.001 6.6066 5.372 11.9628 12 11.9625 6.628.0003 12.001-5.3559 12-11.9625-.0003-6.6057-5.3729-11.9604-12-11.96m-.829 5.4153h7.55l-7.5805 5.3284h5.1828L5.279 18.5436q2.9466-6.5444 5.892-13.0896" fill="#39F1D1"/></g>
+<text x="38" y="20.5" fill="#E7F8FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="53.2" lengthAdjust="spacingAndGlyphs">FASTAPI</text>
+</svg>

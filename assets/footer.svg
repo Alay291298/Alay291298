@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Build, learn, test, improve, ship">
+<title>Build → Learn → Test → Improve → Ship</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#030A14" stop-opacity="0"/><stop offset="0.35" stop-color="#071629"/><stop offset="1" stop-color="#030A14"/></linearGradient>
+  <linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#39F1D1" stop-opacity="0"/><stop offset="0.5" stop-color="#39F1D1"/><stop offset="1" stop-color="#39F1D1" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+    .st{fill:#7FA3BF;animation:st 6s linear infinite}
+    .st.s2{animation-delay:1.2s}.st.s3{animation-delay:2.4s}.st.s4{animation-delay:3.6s}.st.s5{animation-delay:4.8s}
+    @keyframes st{0%,18%{fill:#39F1D1}20%,100%{fill:#7FA3BF}}
+    .run{animation:run 6s linear infinite}
+    @keyframes run{from{transform:translateX(0)}to{transform:translateX(960px)}}
+    .blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+  </style>
+</defs>
+<rect width="1200" height="170" fill="url(#bg)"/>
+<rect x="120" y="72" width="960" height="1.5" fill="#39F1D1" fill-opacity="0.2"/>
+<g class="run"><rect x="40" y="71" width="160" height="3.5" fill="url(#beam)" filter="url(#glow)"/></g>
+<g class="mono" font-size="20" font-weight="700" letter-spacing="5" text-anchor="middle">
+  <text class="st" x="200" y="56">BUILD</text>
+  <text class="st s2" x="400" y="56">LEARN</text>
+  <text class="st s3" x="600" y="56">TEST</text>
+  <text class="st s4" x="800" y="56">IMPROVE</text>
+  <text class="st s5" x="1000" y="56">SHIP</text>
+</g>
+<g fill="#39F1D1"><circle cx="200" cy="73" r="4"/><circle cx="400" cy="73" r="4"/><circle cx="600" cy="73" r="4"/><circle cx="800" cy="73" r="4"/><circle cx="1000" cy="73" r="4"/></g>
+<text class="mono" x="600" y="118" fill="#D7E9F7" font-size="13" text-anchor="middle" letter-spacing="6">END OF TRANSMISSION<tspan class="blink" fill="#39F1D1"> ▌</tspan></text>
+<text class="mono" x="600" y="146" fill="#7FA3BF" font-size="11" text-anchor="middle" letter-spacing="3">ALAYKUMAR PANDYA  ·  REVOLUTION AUTOMATION TECH  ·  HOUSTON, TX</text>
+</svg>

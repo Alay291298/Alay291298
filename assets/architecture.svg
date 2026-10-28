@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Engineering architecture: Sense, Connect, Think, Deliver">
+<title>Engineering architecture: Sense → Connect → Think → Deliver</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A1A2E"/><stop offset="1" stop-color="#050F1C"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#39F1D1" stroke-opacity="0.06"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+    .flow{stroke-dasharray:10 150;animation:flow 2.4s linear infinite}
+    .flow.b{animation-delay:-.8s}.flow.c{animation-delay:-1.6s}
+    @keyframes flow{from{stroke-dashoffset:160}to{stroke-dashoffset:0}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:spin 10s linear infinite}
+    .ring.r{animation-direction:reverse}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .hl{animation:hl 8s linear infinite}
+    .hl.s2{animation-delay:2s}.hl.s3{animation-delay:4s}.hl.s4{animation-delay:6s}
+    @keyframes hl{0%,22%{stroke-opacity:1}25%,100%{stroke-opacity:.35}}
+  </style>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="12" fill="url(#bg)" stroke="#39F1D1" stroke-opacity="0.25"/>
+<rect x="1" y="1" width="1198" height="298" rx="12" fill="url(#grid)"/>
+<text class="mono" x="40" y="40" fill="#7FA3BF" font-size="12" letter-spacing="4">SYSTEM.ARCHITECTURE  //  HOW I BUILD</text>
+<text class="mono" x="1160" y="40" fill="#39F1D1" font-size="12" letter-spacing="3" text-anchor="end">PIPELINE: ACTIVE</text>
+
+<!-- connectors -->
+<g fill="none" stroke="#39F1D1" stroke-opacity="0.25" stroke-width="2">
+  <path d="M270 150H350"/><path d="M570 150H630"/><path d="M850 150H930"/>
+</g>
+<g fill="none" stroke-width="3" stroke-linecap="round" filter="url(#glow)">
+  <path class="flow" stroke="#39F1D1" d="M270 150H350"/>
+  <path class="flow b" stroke="#71CFFF" d="M570 150H630"/>
+  <path class="flow c" stroke="#B1A1FF" d="M850 150H930"/>
+</g>
+<g fill="#39F1D1"><path d="M352 144l8 6-8 6z"/><path d="M632 144l8 6-8 6z" fill="#71CFFF"/><path d="M932 144l8 6-8 6z" fill="#B1A1FF"/></g>
+
+<!-- node 1 SENSE -->
+<g transform="translate(60 70)">
+  <rect class="hl" x="0" y="0" width="210" height="170" rx="10" fill="#0B2236" stroke="#39F1D1" stroke-width="1.5"/>
+  <g transform="translate(105 54)">
+    <circle class="ring" r="28" fill="none" stroke="#39F1D1" stroke-dasharray="20 8" stroke-opacity="0.6"/>
+    <g fill="none" stroke="#39F1D1" stroke-width="2" stroke-linecap="round"><circle r="5"/><path d="M-12 -12a17 17 0 0 0 0 24M12 -12a17 17 0 0 1 0 24M-17 -17a24 24 0 0 0 0 34M17 -17a24 24 0 0 1 0 34" stroke-opacity="0.7"/></g>
+  </g>
+  <text class="mono" x="105" y="118" fill="#39F1D1" font-size="18" font-weight="700" text-anchor="middle" letter-spacing="4">01 SENSE</text>
+  <text class="mono" x="105" y="142" fill="#D7E9F7" font-size="11" text-anchor="middle">Sensors · PCBs · Machines</text>
+  <text class="mono" x="105" y="158" fill="#7FA3BF" font-size="11" text-anchor="middle">Inspection · Test Jigs</text>
+</g>
+<!-- node 2 CONNECT -->
+<g transform="translate(360 70)">
+  <rect class="hl s2" x="0" y="0" width="210" height="170" rx="10" fill="#0B2236" stroke="#71CFFF" stroke-width="1.5"/>
+  <g transform="translate(105 54)">
+    <circle class="ring r" r="28" fill="none" stroke="#71CFFF" stroke-dasharray="4 6" stroke-opacity="0.7"/>
+    <g fill="none" stroke="#71CFFF" stroke-width="2" stroke-linecap="round"><circle cx="0" cy="-12" r="4"/><circle cx="-12" cy="9" r="4"/><circle cx="12" cy="9" r="4"/><path d="M-2 -8.5-10 5.5M2 -8.5 10 5.5M-8 9H8"/></g>
+  </g>
+  <text class="mono" x="105" y="118" fill="#71CFFF" font-size="18" font-weight="700" text-anchor="middle" letter-spacing="4">02 CONNECT</text>
+  <text class="mono" x="105" y="142" fill="#D7E9F7" font-size="11" text-anchor="middle">IoT · MQTT · APIs</text>
+  <text class="mono" x="105" y="158" fill="#7FA3BF" font-size="11" text-anchor="middle">Embedded · Cloud Sync</text>
+</g>
+<!-- node 3 THINK -->
+<g transform="translate(640 70)">
+  <rect class="hl s3" x="0" y="0" width="210" height="170" rx="10" fill="#0B2236" stroke="#B1A1FF" stroke-width="1.5"/>
+  <g transform="translate(105 54)">
+    <circle class="ring" r="28" fill="none" stroke="#B1A1FF" stroke-dasharray="30 6 4 6" stroke-opacity="0.6"/>
+    <g fill="none" stroke="#B1A1FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -16a7 7 0 0 0-12 4 7 7 0 0 0-2 12 7 7 0 0 0 6 11 7 7 0 0 0 8-3 7 7 0 0 0 8 3 7 7 0 0 0 6-11 7 7 0 0 0-2-12 7 7 0 0 0-12-4zM0 -16v30"/></g>
+  </g>
+  <text class="mono" x="105" y="118" fill="#B1A1FF" font-size="18" font-weight="700" text-anchor="middle" letter-spacing="4">03 THINK</text>
+  <text class="mono" x="105" y="142" fill="#D7E9F7" font-size="11" text-anchor="middle">AI · ML · Agents</text>
+  <text class="mono" x="105" y="158" fill="#7FA3BF" font-size="11" text-anchor="middle">Vision · NLP · Analytics</text>
+</g>
+<!-- node 4 DELIVER -->
+<g transform="translate(940 70)">
+  <rect class="hl s4" x="0" y="0" width="210" height="170" rx="10" fill="#0B2236" stroke="#FFCF80" stroke-width="1.5"/>
+  <g transform="translate(105 54)">
+    <circle class="ring r" r="28" fill="none" stroke="#FFCF80" stroke-dasharray="14 6" stroke-opacity="0.6"/>
+    <g fill="none" stroke="#FFCF80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-15" y="-12" width="30" height="20" rx="2"/><path d="M-6 14h12M0 8v6M-9 2l5-6 4 3 6-7"/></g>
+  </g>
+  <text class="mono" x="105" y="118" fill="#FFCF80" font-size="18" font-weight="700" text-anchor="middle" letter-spacing="4">04 DELIVER</text>
+  <text class="mono" x="105" y="142" fill="#D7E9F7" font-size="11" text-anchor="middle">Dashboards · Apps</text>
+  <text class="mono" x="105" y="158" fill="#7FA3BF" font-size="11" text-anchor="middle">Automation · Products</text>
+</g>
+<text class="mono" x="600" y="276" fill="#7FA3BF" font-size="11" text-anchor="middle" letter-spacing="3">UNDERSTAND → ARCHITECT → PROTOTYPE → INSTRUMENT → VALIDATE → DEPLOY → IMPROVE</text>
+</svg>

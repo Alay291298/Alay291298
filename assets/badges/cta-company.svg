@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="331" height="36" viewBox="0 0 331 36" role="img" aria-label="Founder Revolution Automation Tech">
+<title>Founder — Revolution Automation Tech</title>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#71CFFF" stop-opacity="0.22"/><stop offset="1" stop-color="#71CFFF" stop-opacity="0.04"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="330" height="35" rx="6" fill="#061220" stroke="#71CFFF" stroke-opacity="0.55"/>
+<rect x="105" y="1" width="225" height="34" rx="5" fill="url(#g)"/>
+<line x1="105" y1="7" x2="105" y2="29" stroke="#71CFFF" stroke-opacity="0.6"/>
+<path d="M1 5V1h5M325 1h5v5M330 30v5h-5M6 35H1v-5" fill="none" stroke="#71CFFF" stroke-width="1.4"/>
+<g transform="translate(13 9) scale(0.75)"><path d="M13 2 4 14h7l-1 8 9-12h-7z" fill="none" stroke="#71CFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="40" y="22.5" fill="#7FA3BF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="53.2" lengthAdjust="spacingAndGlyphs">FOUNDER</text>
+<text x="119" y="22.5" fill="#71CFFF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="197.6" lengthAdjust="spacingAndGlyphs">REVOLUTION AUTOMATION TECH</text>
+</svg>

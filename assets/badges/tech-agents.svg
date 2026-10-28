@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="32" viewBox="0 0 120 32" role="img" aria-label="AI Agents">
+<title>AI Agents</title>
+<rect x="0.5" y="0.5" width="119" height="31" rx="5" fill="#0B2236" stroke="#71CFFF" stroke-opacity="0.35"/>
+<path d="M1 5V1h5M114 1h5v5M119 26v5h-5M6 31H1v-5" fill="none" stroke="#71CFFF" stroke-width="1.4"/>
+<g transform="translate(12 8) scale(0.6666666666666666)"><path d="M12 2v3M5 8h14v10H5zM9 12h.01M15 12h.01M9 15h6M2 12h3M19 12h3" fill="none" stroke="#71CFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="38" y="20.5" fill="#E7F8FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="68.4" lengthAdjust="spacingAndGlyphs">AI AGENTS</text>
+</svg>

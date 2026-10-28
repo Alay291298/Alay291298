@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="32" viewBox="0 0 166 32" role="img" aria-label="Applied AI &amp; ML">
+<title>Applied AI &amp; ML</title>
+<rect x="0.5" y="0.5" width="165" height="31" rx="5" fill="#0B2236" stroke="#39F1D1" stroke-opacity="0.35"/>
+<path d="M1 5V1h5M160 1h5v5M165 26v5h-5M6 31H1v-5" fill="none" stroke="#39F1D1" stroke-width="1.4"/>
+<g transform="translate(12 8) scale(0.6666666666666666)"><path d="M12 4a3 3 0 0 0-5.6 1.5A3 3 0 0 0 4 10a3 3 0 0 0 1 5.5A3 3 0 0 0 9 20a3 3 0 0 0 3-1.5A3 3 0 0 0 15 20a3 3 0 0 0 4-4.5 3 3 0 0 0 1-5.5 3 3 0 0 0-2.4-4.5A3 3 0 0 0 12 4zM12 4v14.5" fill="none" stroke="#39F1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="38" y="20.5" fill="#E7F8FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="114.0" lengthAdjust="spacingAndGlyphs">APPLIED AI &amp; ML</text>
+</svg>

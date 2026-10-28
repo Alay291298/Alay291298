@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Technology should empower people, not replace them">
+<title>Technology should empower people, not replace them</title>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#071629"/><stop offset="0.5" stop-color="#0B2236"/><stop offset="1" stop-color="#071629"/></linearGradient>
+  <linearGradient id="txt" x1="0" x2="1"><stop offset="0" stop-color="#39F1D1"/><stop offset="0.55" stop-color="#71CFFF"/><stop offset="1" stop-color="#B1A1FF"/></linearGradient>
+  <linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#39F1D1" stop-opacity="0"/><stop offset="0.5" stop-color="#39F1D1"/><stop offset="1" stop-color="#39F1D1" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+    .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif}
+    .sweep{animation:sweep 5s ease-in-out infinite}
+    @keyframes sweep{0%{transform:translateX(-700px)}100%{transform:translateX(700px)}}
+    .dot{animation:dot 2s ease-in-out infinite}.dot.b{animation-delay:.4s}.dot.c{animation-delay:.8s}
+    @keyframes dot{0%,100%{opacity:.25}50%{opacity:1}}
+  </style>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="199" rx="12" fill="url(#bg)" stroke="#39F1D1" stroke-opacity="0.3"/>
+<g fill="none" stroke="#39F1D1" stroke-width="2" stroke-opacity="0.8">
+  <path d="M16 40V16H40"/><path d="M1160 16H1184V40"/><path d="M1184 160V184H1160"/><path d="M40 184H16V160"/>
+</g>
+<text class="mono" x="600" y="52" fill="#7FA3BF" font-size="12" text-anchor="middle" letter-spacing="4">MISSION.CFG  //  CORE DIRECTIVE</text>
+<text class="sans" x="600" y="112" fill="url(#txt)" font-size="36" font-weight="700" text-anchor="middle" textLength="900" lengthAdjust="spacingAndGlyphs" filter="url(#glow)">Technology should empower people, not replace them.</text>
+<g transform="translate(600 138)"><rect class="sweep" x="-300" y="0" width="600" height="2" fill="url(#beam)"/></g>
+<rect x="300" y="138" width="600" height="1" fill="#39F1D1" fill-opacity="0.15"/>
+<g class="mono" font-size="13" fill="#D7E9F7" text-anchor="middle" letter-spacing="2">
+  <text x="600" y="168"><tspan fill="#39F1D1" class="dot">◆</tspan> REDUCE REPETITIVE WORK   <tspan fill="#71CFFF" class="dot b">◆</tspan> PREVENT ERRORS   <tspan fill="#B1A1FF" class="dot c">◆</tspan> FREE TIME FOR JUDGMENT &amp; CREATIVITY</text>
+</g>
+</svg>

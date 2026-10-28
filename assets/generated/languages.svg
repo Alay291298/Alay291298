@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="Top languages across public repositories">
+<title>Top languages</title><style>.b{animation:b 1.6s ease-in-out infinite}@keyframes b{0%,100%{opacity:.3}50%{opacity:1}}
+.pt{animation:pt 2.4s ease-in-out infinite}@keyframes pt{0%,100%{opacity:.55}50%{opacity:1}}</style>
+<rect x="0.5" y="0.5" width="599" height="229" rx="12" fill="#0A1728" stroke="#39F1D1" stroke-opacity="0.3"/>
+<g fill="none" stroke="#39F1D1" stroke-width="2" stroke-opacity="0.8"><path d="M12 32V12H32"/><path d="M568 12H588V32"/><path d="M588 198V218H568"/><path d="M32 218H12V198"/></g>
+<text x="30" y="40" fill="#7FA3BF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" letter-spacing="4">LANGUAGE.MATRIX</text>
+<text x="570" y="40" fill="#39F1D1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="11" letter-spacing="2" text-anchor="end"><tspan class="b">●</tspan> PUBLIC REPOS</text>
+<clipPath id="bc"><rect x="30" y="66" width="540" height="10" rx="5"/></clipPath>
+<rect x="30" y="66" width="540" height="10" rx="5" fill="#13314D"/>
+<g clip-path="url(#bc)"><g><rect x="30.0" y="66" width="540.0" height="10" fill="#39F1D1"/></g></g>
+<g><circle cx="36" cy="104" r="5" fill="#39F1D1"/>
+<text x="50" y="108" fill="#D7E9F7" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="13" font-weight="700">SYNCING…</text>
+<text x="280" y="108" fill="#7FA3BF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" text-anchor="end">100.0%</text></g>
+<text x="570" y="216" fill="#4F6E89" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="9" text-anchor="end">awaiting first sync — refreshes automatically after push</text>
+</svg>

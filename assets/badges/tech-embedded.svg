@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="32" viewBox="0 0 158 32" role="img" aria-label="Embedded / IoT">
+<title>Embedded / IoT</title>
+<rect x="0.5" y="0.5" width="157" height="31" rx="5" fill="#0B2236" stroke="#39F1D1" stroke-opacity="0.35"/>
+<path d="M1 5V1h5M152 1h5v5M157 26v5h-5M6 31H1v-5" fill="none" stroke="#39F1D1" stroke-width="1.4"/>
+<g transform="translate(12 8) scale(0.6666666666666666)"><path d="M7 7h10v10H7zM9 2v3M12 2v3M15 2v3M9 19v3M12 19v3M15 19v3M2 9h3M2 12h3M2 15h3M19 9h3M19 12h3M19 15h3" fill="none" stroke="#39F1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="38" y="20.5" fill="#E7F8FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="106.4" lengthAdjust="spacingAndGlyphs">EMBEDDED / IOT</text>
+</svg>

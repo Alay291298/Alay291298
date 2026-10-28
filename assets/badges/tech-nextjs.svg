@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="32" viewBox="0 0 105 32" role="img" aria-label="Next.js">
+<title>Next.js</title>
+<rect x="0.5" y="0.5" width="104" height="31" rx="5" fill="#0B2236" stroke="#E7F8FF" stroke-opacity="0.35"/>
+<path d="M1 5V1h5M99 1h5v5M104 26v5h-5M6 31H1v-5" fill="none" stroke="#E7F8FF" stroke-width="1.4"/>
+<g transform="translate(12 8) scale(0.6666666666666666)"><path d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z" fill="#E7F8FF"/></g>
+<text x="38" y="20.5" fill="#E7F8FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="53.2" lengthAdjust="spacingAndGlyphs">NEXT.JS</text>
+</svg>

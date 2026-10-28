@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179" height="36" viewBox="0 0 179 36" role="img" aria-label="Transmit Email">
+<title>Transmit — Email</title>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#39F1D1" stop-opacity="0.22"/><stop offset="1" stop-color="#39F1D1" stop-opacity="0.04"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="178" height="35" rx="6" fill="#061220" stroke="#39F1D1" stroke-opacity="0.55"/>
+<rect x="113" y="1" width="65" height="34" rx="5" fill="url(#g)"/>
+<line x1="113" y1="7" x2="113" y2="29" stroke="#39F1D1" stroke-opacity="0.6"/>
+<path d="M1 5V1h5M173 1h5v5M178 30v5h-5M6 35H1v-5" fill="none" stroke="#39F1D1" stroke-width="1.4"/>
+<g transform="translate(13 9) scale(0.75)"><path d="M3 5h18v14H3zM3 5l9 8 9-8" fill="none" stroke="#39F1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="40" y="22.5" fill="#7FA3BF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="60.8" lengthAdjust="spacingAndGlyphs">TRANSMIT</text>
+<text x="127" y="22.5" fill="#39F1D1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="38.0" lengthAdjust="spacingAndGlyphs">EMAIL</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Selected impact results: 40 percent less manual effort, over 95 percent PCB traceability, automation exposure across over 30 departments, competition honors">
+<title>Selected impact: 40% less manual effort · 95%+ PCB traceability · 30+ departments · 3 competition honors</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A1A2E"/><stop offset="1" stop-color="#050F1C"/></linearGradient>
+  <filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+    .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif}
+    .bar.b{animation-delay:.25s}.bar.c{animation-delay:.5s}.bar.d{animation-delay:.75s}
+    .tick{animation:tick 1.6s ease-in-out infinite}
+    @keyframes tick{0%,100%{opacity:.3}50%{opacity:1}}
+  </style>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="249" rx="12" fill="url(#bg)" stroke="#39F1D1" stroke-opacity="0.25"/>
+<text class="mono" x="40" y="38" fill="#7FA3BF" font-size="12" letter-spacing="4">IMPACT.LOG  //  PROOF OF EXECUTION</text>
+<text class="mono" x="1160" y="38" fill="#39F1D1" font-size="12" letter-spacing="3" text-anchor="end"><tspan class="tick">●</tspan> VERIFIED BUILDS</text>
+
+<!-- tile 1 -->
+<g transform="translate(40 60)">
+  <rect width="260" height="160" rx="10" fill="#0B2236" stroke="#39F1D1" stroke-opacity="0.5"/>
+  <g><text class="sans" x="22" y="68" fill="#39F1D1" font-size="52" font-weight="800" filter="url(#glow)">40%</text></g>
+  <text class="mono" x="22" y="98" fill="#D7E9F7" font-size="13" font-weight="700" letter-spacing="1">LESS MANUAL EFFORT</text>
+  <text class="mono" x="22" y="118" fill="#7FA3BF" font-size="11">workflow automation</text>
+  <rect x="22" y="136" width="216" height="6" rx="3" fill="#13314D"/>
+  <rect x="22" y="136" width="86" height="6" rx="3" fill="#39F1D1"/>
+</g>
+<!-- tile 2 -->
+<g transform="translate(320 60)">
+  <rect width="260" height="160" rx="10" fill="#0B2236" stroke="#71CFFF" stroke-opacity="0.5"/>
+  <g><text class="sans" x="22" y="68" fill="#71CFFF" font-size="52" font-weight="800" filter="url(#glow)">95%+</text></g>
+  <text class="mono" x="22" y="98" fill="#D7E9F7" font-size="13" font-weight="700" letter-spacing="1">PCB LINE TRACEABILITY</text>
+  <text class="mono" x="22" y="118" fill="#7FA3BF" font-size="11">production &amp; quality visibility</text>
+  <rect x="22" y="136" width="216" height="6" rx="3" fill="#13314D"/>
+  <rect x="22" y="136" width="205" height="6" rx="3" fill="#71CFFF"/>
+</g>
+<!-- tile 3 -->
+<g transform="translate(600 60)">
+  <rect width="260" height="160" rx="10" fill="#0B2236" stroke="#B1A1FF" stroke-opacity="0.5"/>
+  <g><text class="sans" x="22" y="68" fill="#B1A1FF" font-size="52" font-weight="800" filter="url(#glow)">30+</text></g>
+  <text class="mono" x="22" y="98" fill="#D7E9F7" font-size="13" font-weight="700" letter-spacing="1">DEPARTMENTS</text>
+  <text class="mono" x="22" y="118" fill="#7FA3BF" font-size="11">organization-wide automation</text>
+  <g fill="#B1A1FF">
+    <rect x="22" y="136" width="20" height="6" rx="2"/><rect x="46" y="136" width="20" height="6" rx="2"/><rect x="70" y="136" width="20" height="6" rx="2"/><rect x="94" y="136" width="20" height="6" rx="2"/><rect x="118" y="136" width="20" height="6" rx="2"/><rect x="142" y="136" width="20" height="6" rx="2"/><rect x="166" y="136" width="20" height="6" rx="2"/><rect x="190" y="136" width="20" height="6" rx="2"/><rect x="214" y="136" width="24" height="6" rx="2"/>
+  </g>
+</g>
+<!-- tile 4 -->
+<g transform="translate(880 60)">
+  <rect width="280" height="160" rx="10" fill="#0B2236" stroke="#FFCF80" stroke-opacity="0.5"/>
+  <g><text class="sans" x="22" y="68" fill="#FFCF80" font-size="52" font-weight="800" filter="url(#glow)">3×</text></g>
+  <text class="mono" x="22" y="98" fill="#D7E9F7" font-size="13" font-weight="700" letter-spacing="1">COMPETITION HONORS</text>
+  <text class="mono" x="22" y="118" fill="#7FA3BF" font-size="11">Hackathon · Robocon · Mitsubishi</text>
+  <g transform="translate(22 128)" font-size="10" class="mono">
+    <rect width="68" height="20" rx="4" fill="#2A2412" stroke="#FFCF80" stroke-opacity="0.6"/><text x="34" y="14" fill="#FFCF80" text-anchor="middle">1ST 2018</text>
+    <rect x="76" width="72" height="20" rx="4" fill="#2A2412" stroke="#FFCF80" stroke-opacity="0.6"/><text x="112" y="14" fill="#FFCF80" text-anchor="middle">RU-2 2019</text>
+    <rect x="156" width="80" height="20" rx="4" fill="#2A2412" stroke="#FFCF80" stroke-opacity="0.6"/><text x="196" y="14" fill="#FFCF80" text-anchor="middle">11TH 2019</text>
+  </g>
+</g>
+</svg>

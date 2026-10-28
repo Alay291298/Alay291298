@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="36" viewBox="0 0 240 36" role="img" aria-label="Launch Workbench Tools">
+<title>Launch — Workbench Tools</title>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FFCF80" stop-opacity="0.22"/><stop offset="1" stop-color="#FFCF80" stop-opacity="0.04"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="239" height="35" rx="6" fill="#061220" stroke="#FFCF80" stroke-opacity="0.55"/>
+<rect x="98" y="1" width="141" height="34" rx="5" fill="url(#g)"/>
+<line x1="98" y1="7" x2="98" y2="29" stroke="#FFCF80" stroke-opacity="0.6"/>
+<path d="M1 5V1h5M234 1h5v5M239 30v5h-5M6 35H1v-5" fill="none" stroke="#FFCF80" stroke-width="1.4"/>
+<g transform="translate(13 9) scale(0.75)"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.6 2.6-2.4-.6-.6-2.4z" fill="none" stroke="#FFCF80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="40" y="22.5" fill="#7FA3BF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="45.6" lengthAdjust="spacingAndGlyphs">LAUNCH</text>
+<text x="112" y="22.5" fill="#FFCF80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="114.0" lengthAdjust="spacingAndGlyphs">WORKBENCH TOOLS</text>
+</svg>

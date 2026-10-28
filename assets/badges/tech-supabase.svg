@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="32" viewBox="0 0 113 32" role="img" aria-label="Supabase">
+<title>Supabase</title>
+<rect x="0.5" y="0.5" width="112" height="31" rx="5" fill="#0B2236" stroke="#39F1D1" stroke-opacity="0.35"/>
+<path d="M1 5V1h5M107 1h5v5M112 26v5h-5M6 31H1v-5" fill="none" stroke="#39F1D1" stroke-width="1.4"/>
+<g transform="translate(12 8) scale(0.6666666666666666)"><path d="M11.9 1.036c-.015-.986-1.26-1.41-1.874-.637L.764 12.05C-.33 13.427.65 15.455 2.409 15.455h9.579l.113 7.51c.014.985 1.259 1.408 1.873.636l9.262-11.653c1.093-1.375.113-3.403-1.645-3.403h-9.642z" fill="#39F1D1"/></g>
+<text x="38" y="20.5" fill="#E7F8FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="60.8" lengthAdjust="spacingAndGlyphs">SUPABASE</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="32" viewBox="0 0 136 32" role="img" aria-label="3D Printing">
+<title>3D Printing</title>
+<rect x="0.5" y="0.5" width="135" height="31" rx="5" fill="#0B2236" stroke="#A9A1FF" stroke-opacity="0.35"/>
+<path d="M1 5V1h5M130 1h5v5M135 26v5h-5M6 31H1v-5" fill="none" stroke="#A9A1FF" stroke-width="1.4"/>
+<g transform="translate(12 8) scale(0.6666666666666666)"><path d="M3.678 4.8 12 9.6v9.6l8.322-4.8V4.8L12 0ZM12 19.2l-8.322-4.8V24Z" fill="#A9A1FF"/></g>
+<text x="38" y="20.5" fill="#E7F8FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" font-weight="700" textLength="83.6" lengthAdjust="spacingAndGlyphs">3D PRINTING</text>
+</svg>
