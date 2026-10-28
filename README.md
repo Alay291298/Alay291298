@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     ⚡ ALAYKUMAR "ALBERT" PANDYA — GITHUB PROFILE README
+     ⚡ ALAYKUMAR "ALAY" PANDYA — GITHUB PROFILE README
      Replace every YOUR_USERNAME with your GitHub username before pushing.
      ═══════════════════════════════════════════════════════════════════ -->
 
